@@ -1,0 +1,10 @@
+*~
+.DS_Store
+.settings
+.project
+manifest
+tiapp.xml
+node_modules
+tmp
+Resources
+build
