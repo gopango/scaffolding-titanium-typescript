@@ -5,6 +5,7 @@ module.exports = function(grunt) {
   var projectVars = {
     appid: '<%= pkg.appid %>',
     author: '<%= pkg.author %>',
+    copyright: '<%= pkg.copyright %>',
     description: '<%= pkg.description %>',
     guid: '<%= pkg.guid %>',
     homepage: '<%= pkg.homepage %>',
