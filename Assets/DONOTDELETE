@@ -1,1 +1,2 @@
 This folder should contain at least one file due to a grunt-contrib-copy bug.
+Don't delete this file, grunt delete it automatically after building.

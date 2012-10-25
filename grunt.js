@@ -47,7 +47,8 @@ module.exports = function(grunt) {
         'manifest'
       ],
       tmp: [
-        'tmp'
+        'tmp',
+        'Resources/DONOTDELETE'
       ]
     },
 
