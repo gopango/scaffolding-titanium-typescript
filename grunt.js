@@ -58,7 +58,7 @@ module.exports = function(grunt) {
           'Resources/': 'Assets/**'
         },
         options: {
-          basePath: 'Resources'
+          basePath: 'Assets'
         }
       },
       release: {
@@ -66,7 +66,7 @@ module.exports = function(grunt) {
           'Resources/': 'Assets/**'
         },
         options: {
-          basePath: 'Resources',
+          basePath: 'Assets',
           processContentExclude: [
             'Assets/**/*.png',
             'Assets/**/*.jpg',
