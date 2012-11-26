@@ -1,7 +1,7 @@
 /*
-   Typescript Titanium - 2.1.3
+   Typescript Titanium - 2.1.4
    Typescipt-Titanium may be freely distributed under the MIT license.
-   This source code was auto-generated (Tue Oct 09 2012 10:41:23 GMT+0200 (CEST)}}).
+   This source code was auto-generated (Fri Nov 23 2012 12:48:07 GMT+0100 (CET)}}).
    More information at https://github.com/alvivi/typescript-titanium.
  */
 declare interface TitaniumXMLEntityStatic {
